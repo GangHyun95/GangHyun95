@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
   
  <h4>:link: Portfolio</h4>
-  <a href="https://ganghyun95.github.io/portfolio/" target="blank"><img src="https://img.shields.io/badge/Click Me!-E34F26?style=for-the-badge&logo=&logoColor=white"/></a><br/><br/>
+  <a href="https://ganghyun95.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click Me!-E34F26?style=for-the-badge&logo=&logoColor=white"/></a><br/><br/>
   
   [![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangHyun95)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
